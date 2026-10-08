@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1779930601 source:c:\users\aluno.labcharuri\desktop\aulas sulivan\aulastulio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca.h"
+
+1779930853 c:\users\aluno.labcharuri\desktop\aulas sulivan\aulastulio\biblioteca.h
+	<stdio.h>
+
+1782176500 source:c:\users\aluno.labcharuri\desktop\aulas,codes\tulio,aulas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"biblioteca.h"
+	<string.h>
+
+1781822779 c:\users\aluno.labcharuri\desktop\aulas,codes\tulio,aulas\biblioteca.h
+	<stdio.h>
+
